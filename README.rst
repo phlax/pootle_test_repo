@@ -1,5 +1,5 @@
-Pootle VCS config examples
-==========================
+Pootle FS config examples
+=========================
 
 
 Configuration format
